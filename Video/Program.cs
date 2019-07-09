@@ -73,8 +73,6 @@ namespace Video
             addThree();
             getName();
             giveaway();
-
- 
         }
     }
 }
