@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video", "Video\Video.csproj", "{FD2BE01A-61E0-4099-95D6-98CE81DEEF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD2BE01A-61E0-4099-95D6-98CE81DEEF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2BE01A-61E0-4099-95D6-98CE81DEEF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2BE01A-61E0-4099-95D6-98CE81DEEF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2BE01A-61E0-4099-95D6-98CE81DEEF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
